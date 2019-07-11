@@ -1,2 +1,11 @@
 # collatz_networkx
-Computatoinal explorations of the Collatz problem in python. 
+
+Computational explorations of the Collatz problem in python. 
+
+## Pre-requisites
+- Python 3
+
+- networkX
+- pygraphviz
+
+
